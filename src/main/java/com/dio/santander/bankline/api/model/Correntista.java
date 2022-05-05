@@ -17,6 +17,8 @@ public class Correntista {
 	private String cpf;
 	private String nome;
 	
+	
+	
 	@Embedded
 	private Conta conta;
 	
